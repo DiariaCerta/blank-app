@@ -37,6 +37,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+pip install streamlit requests beautifulsoup4
 
 # Unit test / coverage reports
 htmlcov/
