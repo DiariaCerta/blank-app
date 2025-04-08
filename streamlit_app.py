@@ -1,8 +1,4 @@
-import streamlit as st
 
-st.title("🎈 Analiador de CNPJ MEI")
-
-pip install streamlit requests beautifulsoup4
 
 import streamlit as st
 import requests
